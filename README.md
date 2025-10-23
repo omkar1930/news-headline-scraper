@@ -27,7 +27,7 @@ Inside the code, there are comments from Step 1 to Step 4 explaining what each p
 🪜 Step 2: Parse the HTML using BeautifulSoup
 
 ---The HTML data is passed to BeautifulSoup, which helps read and navigate HTML structure easily.
----It allows the script to search for specific tags like <h1>, <h2>, and <h3> (common headline tags).
+---It allows the script to search for specific tags like `<h1>`, `<h2>`, and `<h3>` (common headline tags).
 
 🪜 Step 3: Extract Headline Tags
 
